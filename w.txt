@@ -1,0 +1,14 @@
+Syllabus 
+Version Control System
+Git 
+Github
+Diff b/w git and github 
+github alternatives
+branches and merging 
+Hands on demo 
+intsalling git 
+making repo 
+staging commit 
+push and pull 
+remote and local demo 
+Cloning repostitory
